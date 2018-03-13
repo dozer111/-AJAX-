@@ -1,0 +1,24 @@
+.pagination_link
+{
+    font-size: 32px;
+    background-color: red;
+    padding: 5px 5px;
+}
+.active
+{
+    background-color: silver;
+}
+table
+{
+    height: 90vh;
+    max-height: 90vh;
+}
+tr
+{
+    font-size: 32px;
+}
+.pagination
+{
+    height: 10vh;
+    text-align: center;
+}
